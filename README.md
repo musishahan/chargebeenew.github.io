@@ -37,7 +37,7 @@
             <button class="checkout-btn">Checkout</button>
         </div>
 
-        <div class="pricing-card amaze">
+        <div class="pricing-card amaze-musi">
             <h2>Amaze</h2>
             <p class="price">$50 / month</p>
             <ul>
