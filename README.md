@@ -46,7 +46,6 @@
                 <li>All Features</li>
                 <li>Personalized Solutions</li>
             </ul>
-            <button class="checkout-btn">Checkout</button>
             <a href="javascript:void(0)" data-cb-type="checkout" data-cb-plan-id="amaze-musi" >subscribe</a>
         </div>
     </div>
