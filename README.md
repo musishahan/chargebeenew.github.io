@@ -37,7 +37,7 @@
             <button class="checkout-btn">Checkout</button>
         </div>
 
-        <div class="pricing-card amaze-musi">
+        <div class="pricing-card amaze">
             <h2>Amaze</h2>
             <p class="price">$50 / month</p>
             <ul>
@@ -47,6 +47,7 @@
                 <li>Personalized Solutions</li>
             </ul>
             <button class="checkout-btn">Checkout</button>
+            <a href="javascript:void(0)" data-cb-type="checkout" data-cb-plan-id="amaze-musi" >subscribe</a>
         </div>
     </div>
 
