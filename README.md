@@ -35,6 +35,7 @@
                 <li>Extra Features</li>
             </ul>
             <button class="checkout-btn">Checkout</button>
+            
         </div>
 
         <div class="pricing-card amaze">
@@ -46,7 +47,9 @@
                 <li>All Features</li>
                 <li>Personalized Solutions</li>
             </ul>
-            <a href="javascript:void(0)" data-cb-type="checkout" data-cb-plan-id="amaze-musi" >subscribe</a>
+            <a href="javascript:void(0)" data-cb-type="checkout" data-cb-plan-id="amaze-musi" >
+            <button class="checkout-btn">Checkout</button>
+            </a>
         </div>
     </div>
 
