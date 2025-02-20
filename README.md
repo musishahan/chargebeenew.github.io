@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pricing Plans</title>
     <link rel="stylesheet" href="style.css">
-    <script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="solutions-int-test" ></script>
+    <script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="chargebee-assessment4-test" ></script>
 </head>
 <body>
     <header>
@@ -47,7 +47,7 @@
                 <li>All Features</li>
                 <li>Personalized Solutions</li>
             </ul>
-            <a href="javascript:void(0)" data-cb-type="checkout" data-cb-plan-id="amaze-musi" >
+            <a href="javascript:void(0)" data-cb-type="checkout" data-cb-item-0="Scale-Plan-USD-Monthly" >
             <button class="checkout-btn">Checkout</button>
             </a>
         </div>
